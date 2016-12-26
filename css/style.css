@@ -1,6 +1,6 @@
 .row div {
 
-    height: 400px;
+    height: 800px;
 }
 
 .row .color1
@@ -24,12 +24,17 @@ padding: 15px;
 
 .text_in_first_row {
 
-    padding: 150px;
+    padding: 350px 0 0 200px;
 
 }
 
 .text_in_first_row2 {
 
-  padding: 50px;
+  padding: 310px 0 0 50px;
 
+}
+.intro {
+  background: #c285ef;
+  height: 50px;
+padding: 20px 0 0 0;
 }
