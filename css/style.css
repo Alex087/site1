@@ -11,14 +11,20 @@
 
 .row .color2
 {
-  background: red;
+  background: #3fc4c4;
 
 }
+
+
 .menu {
 
     height: 50px;
     background: white;
 
+}
 
+.text_in_first_row {
+
+    padding: 50px;
 
 }
