@@ -5,7 +5,7 @@
 
 .row .color1
 {
-  background: #a045e3;
+  background: #c285ef;
 
 }
 
@@ -17,14 +17,19 @@
 
 
 .menu {
-
-    height: 50px;
-    background: white;
+padding: 15px;
+ background: white;
 
 }
 
 .text_in_first_row {
 
-    padding: 50px;
+    padding: 150px;
+
+}
+
+.text_in_first_row2 {
+
+  padding: 50px;
 
 }
