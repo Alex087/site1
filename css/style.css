@@ -1,7 +1,4 @@
-.row div {
 
-    height: 800px;
-}
 
 .row .color1
 {
@@ -15,6 +12,10 @@
 
 }
 
+.row .size1 {
+
+  height: 50px;
+}
 
 .menu {
 padding: 15px;
@@ -45,9 +46,4 @@ padding: 20px 0 0 0;
     height: 50px;
 padding: 20px 0 0 0;
 }
-.row1
-{
-background: #c285ef;
-height: 50px;
 
-}
