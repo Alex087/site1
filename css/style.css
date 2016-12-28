@@ -11,7 +11,7 @@ body { background-color: transparent; }
 
 .row .size2 {
 
-    height: 800px;
+    height: 1000px;
 
 }
 
@@ -68,5 +68,16 @@ padding: 20px 0 0 0;
 }
 .row_image {
 
-    background-image: url('\img\ss-band-concert-crowd.jpg');
+    background-image: url('C:\tmp\git\img\ss-band-concert-crowd.jpg');
+}
+
+.landing-col {
+    background: url('https://assets.entrepreneur.com/content/16x9/822/20150724190206-success-focus-life-achievements.jpeg') no-repeat;
+    -webkit-background-size: 100% auto;
+    -moz-background-size: 100% auto;
+    -o-background-size: 100% auto;
+    background-size: 100% auto;
+
+    margin:0;
+    padding:0px;
 }
