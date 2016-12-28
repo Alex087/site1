@@ -1,4 +1,16 @@
+.background1 {
+    background: url('http://megapixelstock.com/user/userinfo/user_images/medium/laptop-1.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
 
+.row .size2 {
+
+    height: 800px;
+
+}
 
 .row .color1
 {
@@ -6,16 +18,12 @@
 
 }
 
-.row .color2
+.color2
 {
   background: #3fc4c4;
 
 }
 
-.row .size1 {
-
-  height: 50px;
-}
 
 .menu {
 padding: 15px;
@@ -25,7 +33,7 @@ padding: 15px;
 
 .text_in_first_row {
 
-    padding: 350px 0 0 200px;
+    padding: 350px 0 0 150px;
 
 }
 
@@ -35,9 +43,9 @@ padding: 15px;
 
 }
 .intro {
-  background: #c285ef;
-  height: 50px;
-padding: 20px 0 0 0;
+  background: none;
+
+padding: 0px 0 0 0;
 }
 
 .Experience {
@@ -46,4 +54,3 @@ padding: 20px 0 0 0;
     height: 50px;
 padding: 20px 0 0 0;
 }
-
