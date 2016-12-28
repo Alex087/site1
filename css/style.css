@@ -1,3 +1,6 @@
+
+body { background-color: transparent; }
+
 .background1 {
     background: url('http://megapixelstock.com/user/userinfo/user_images/medium/laptop-1.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -62,4 +65,8 @@ padding: 20px 0 0 0;
     overflow: hidden;
     display: block;
 
+}
+.row_image {
+
+    background-image: url('\img\ss-band-concert-crowd.jpg');
 }
