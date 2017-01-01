@@ -2,11 +2,12 @@
 body { background-color: transparent; }
 
 .background1 {
-    background: url('http://megapixelstock.com/user/userinfo/user_images/medium/laptop-1.jpg') no-repeat center center fixed;
+    background: url('https://html5backgroundvideos.com/wp-content/uploads/2015/09/office-compilation.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    height: 1000px;
 }
 
 .row .size2 {
@@ -45,6 +46,24 @@ padding: 15px;
   padding: 310px 0 0 50px;
 
 }
+
+.text_in_second_row {
+
+    padding: 70px 0 0 60%;
+
+}
+
+.text_in_second_row2 {
+
+    padding: 65px 0 0 10px;
+
+}
+
+.text_in_second_row3 {
+
+    padding: 80px 0 0 10px;
+
+}
 .intro {
   background: none;
 
@@ -72,12 +91,11 @@ padding: 20px 0 0 0;
 }
 
 .landing-col {
-    background: url('https://assets.entrepreneur.com/content/16x9/822/20150724190206-success-focus-life-achievements.jpeg') no-repeat;
+    background: url('http://momtrepreneurmaven.com/wp-content/uploads/2015/07/offices2.jpg') no-repeat;
     -webkit-background-size: 100% auto;
     -moz-background-size: 100% auto;
     -o-background-size: 100% auto;
     background-size: 100% auto;
 
-    margin:0;
-    padding:0px;
+
 }
