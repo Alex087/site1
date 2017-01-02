@@ -12,7 +12,7 @@ body { background-color: transparent; }
 
 .row .size2 {
 
-    height: 1000px;
+    height: 800px;
 
 }
 
@@ -91,7 +91,17 @@ padding: 20px 0 0 0;
 }
 
 .landing-col {
-    background: url('http://momtrepreneurmaven.com/wp-content/uploads/2015/07/offices2.jpg') no-repeat;
+    background: url('https://www.simpleltc.com/wp-content/uploads/2015/05/simpleltc-customers.jpg') no-repeat;
+    -webkit-background-size: 100% auto;
+    -moz-background-size: 100% auto;
+    -o-background-size: 100% auto;
+    background-size: 100% auto;
+
+
+}
+
+.landing-col2 {
+    background: url('https://d3thflcq1yqzn0.cloudfront.net/026043632_prevstill.jpeg') no-repeat;
     -webkit-background-size: 100% auto;
     -moz-background-size: 100% auto;
     -o-background-size: 100% auto;
