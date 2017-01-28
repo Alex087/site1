@@ -2,16 +2,28 @@
 body { background-color: transparent; }
 
 .background1 {
-    background: url('http://megapixelstock.com/user/userinfo/user_images/medium/laptop-1.jpg') no-repeat center center fixed;
+    background: url('https://html5backgroundvideos.com/wp-content/uploads/2015/09/office-compilation.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    height: 900px;
 }
 
 .row .size2 {
 
-    height: 1000px;
+    height: 900px;
+
+}
+
+.row .size_row {
+
+    height: 180px;
+
+}
+.row .size_row1 {
+
+    height: 220px;
 
 }
 
@@ -36,15 +48,39 @@ padding: 15px;
 
 .text_in_first_row {
 
-    padding: 350px 0 0 150px;
+    padding: 35% 0 0 150px;
 
 }
 
 .text_in_first_row2 {
 
-  padding: 310px 0 0 50px;
+  padding: 30% 0 0 50px;
 
 }
+
+.text_in_second_row {
+
+    padding: 70px 0 0 60%;
+
+}
+
+.text_in_second_row2 {
+
+    padding: 65px 0 0 10px;
+
+}
+
+.text_in_second_row3 {
+
+    padding: 80px 0 0 10px;
+
+}
+.text_in_first_row4 {
+
+    padding: 0 0 0 20%;
+
+}
+
 .intro {
   background: none;
 
@@ -72,12 +108,46 @@ padding: 20px 0 0 0;
 }
 
 .landing-col {
-    background: url('https://assets.entrepreneur.com/content/16x9/822/20150724190206-success-focus-life-achievements.jpeg') no-repeat;
+    background: url("https://www.simpleltc.com/wp-content/uploads/2015/05/simpleltc-customers.jpg") no-repeat;
     -webkit-background-size: 100% auto;
     -moz-background-size: 100% auto;
     -o-background-size: 100% auto;
     background-size: 100% auto;
 
-    margin:0;
-    padding:0px;
+
+}
+
+.landing-col2 {
+    background: url('http://marketingland.com/wp-content/ml-loads/2016/05/future-search-ss-1920.jpg') no-repeat;
+    -webkit-background-size: 100% auto;
+    -moz-background-size: 100% auto;
+    -o-background-size: 100% auto;
+    background-size: 100% auto;
+    height: 800px;
+
+
+}
+
+.col-lg-5 .vnedr_and_sopr {
+
+   padding: 40px 0 0 0px;
+
+}
+
+.col-lg-3 .projects {
+
+   padding: 0px 0 0 20px;
+
+}
+
+.projects1 {
+
+   padding: 10px 0 0 0px;
+
+}
+
+.contacts {
+     padding: 15px 0 0 0px;
+
+
 }
