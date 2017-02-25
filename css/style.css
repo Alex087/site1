@@ -2,12 +2,34 @@
 body { background-color: transparent; }
 
 .background1 {
-    background: url('https://html5backgroundvideos.com/wp-content/uploads/2015/09/office-compilation.jpg') no-repeat center center fixed;
+    background: url('../img/background1.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
     height: 900px;
+}
+
+.background2 {
+
+background: url('../img/slide2_.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height: 100%;
+
+}
+
+.background3 {
+
+background: url('../img/slide3.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height: 100%;
+
 }
 
 .row .size2 {
@@ -124,9 +146,10 @@ padding: 20px 0 0 0;
     -o-background-size: 100% auto;
     background-size: 100% auto;
     min-height: 700px;
-
-
 }
+
+
+
 
 .col-lg-5 .vnedr_and_sopr {
 
@@ -155,5 +178,5 @@ padding: 20px 0 0 0;
 .container {
 
 
-    height: 100%;
+    height: 800px;
 }
