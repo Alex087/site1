@@ -12,7 +12,7 @@ body { background-color: transparent; }
 
 .row .size2 {
 
-    height: 900px;
+    height: 250px;
 
 }
 
@@ -113,7 +113,7 @@ padding: 20px 0 0 0;
     -moz-background-size: 100% auto;
     -o-background-size: 100% auto;
     background-size: 100% auto;
-
+    min-height: 700px;
 
 }
 
@@ -123,7 +123,7 @@ padding: 20px 0 0 0;
     -moz-background-size: 100% auto;
     -o-background-size: 100% auto;
     background-size: 100% auto;
-    height: 800px;
+    min-height: 700px;
 
 
 }
@@ -150,4 +150,10 @@ padding: 20px 0 0 0;
      padding: 15px 0 0 0px;
 
 
+}
+
+.container {
+
+
+    height: 100%;
 }
