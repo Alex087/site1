@@ -129,26 +129,6 @@ padding: 20px 0 0 0;
     background-image: url('C:\tmp\git\img\ss-band-concert-crowd.jpg');
 }
 
-.landing-col {
-    background: url("https://www.simpleltc.com/wp-content/uploads/2015/05/simpleltc-customers.jpg") no-repeat;
-    -webkit-background-size: 100% auto;
-    -moz-background-size: 100% auto;
-    -o-background-size: 100% auto;
-    background-size: 100% auto;
-    min-height: 700px;
-
-}
-
-.landing-col2 {
-    background: url('http://marketingland.com/wp-content/ml-loads/2016/05/future-search-ss-1920.jpg') no-repeat;
-    -webkit-background-size: 100% auto;
-    -moz-background-size: 100% auto;
-    -o-background-size: 100% auto;
-    background-size: 100% auto;
-    min-height: 700px;
-}
-
-
 
 
 .col-lg-5 .vnedr_and_sopr {
