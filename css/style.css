@@ -183,3 +183,34 @@ padding: 20px 0 0 0;
 
     margin: 10% 0 0 0;
 }
+
+
+/*--- RESPONSIBLE -----*/
+@media (max-width: 768px) {
+    .pull-right {
+        float: none !important;
+
+    }
+
+    .resp-center {
+        text-align: center;
+
+    }
+
+    .place_down {
+    padding: 0 0 5% 0;
+        }
+
+.background1 {
+    height: 105%;
+    }
+
+    .slide1-margin-top {
+    margin: 10px 0 0 0;
+    }
+
+    .slide2-margin-left {
+    margin: 0 0 0 10px;
+    }
+
+}
