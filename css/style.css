@@ -1,6 +1,6 @@
-
-body { background-color: transparent; }
-
+body {
+    background-color: transparent;
+}
 .background1 {
     background: url('../img/background1.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -9,302 +9,185 @@ body { background-color: transparent; }
     -o-background-size: cover;
     height: 900px;
 }
-
 .background2 {
-
-background: url('../img/slide2_.jpg') no-repeat center center fixed;
+    background: url('../img/slide2_.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
     height: 100%;
-
 }
-
 .background3 {
-
-background: url('../img/slide3.jpg') no-repeat center center fixed;
+    background: url('../img/slide3.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
     height: 100%;
-
 }
-
 .row .size2 {
-
     height: 250px;
-
 }
-
 .row .size_row {
-
     height: 180px;
-
 }
 .row .size_row1 {
-
     height: 220px;
-
 }
-
-.row .color1
-{
-  background: #c285ef;
-
+.row .color1 {
+    background: #c285ef;
 }
-
-.color2
-{
-  background: #3fc4c4;
-
+.color2 {
+    background: #3fc4c4;
 }
-
-
 .menu {
-padding: 15px;
- background: white;
-
+    padding: 15px;
+    background: white;
 }
-
 .text_in_first_row {
-
     padding: 35% 0 0 150px;
-
 }
-
 .text_in_first_row2 {
-
-  padding: 30% 0 0 50px;
-
+    padding: 30% 0 0 50px;
 }
-
 .text_in_second_row {
-
     padding: 70px 0 0 60%;
-
 }
-
 .text_in_second_row2 {
-
     padding: 65px 0 0 10px;
-
 }
-
 .text_in_second_row3 {
-
     padding: 80px 0 0 10px;
-
 }
 .text_in_first_row4 {
-
     padding: 0 0 0 20%;
-
 }
-
 .intro {
-  background: none;
-
-padding: 0px 0 0 0;
+    background: none;
+    padding: 0px 0 0 0;
 }
-
 .Experience {
-
-  background: #3fc4c4;
+    background: #3fc4c4;
     height: 50px;
-padding: 20px 0 0 0;
+    padding: 20px 0 0 0;
 }
-
 .parallax_image {
-
     width: 100%;
     height: 50px;
     overflow: hidden;
     display: block;
-
 }
 .row_image {
-
     background-image: url('C:\tmp\git\img\ss-band-concert-crowd.jpg');
 }
-
-
-
 .col-lg-5 .vnedr_and_sopr {
-
-   padding: 43px 0 0 0px;
-
+    padding: 43px 0 0 0px;
 }
-
 .col-lg-3 .projects {
-
-   padding: 0px 0 0 0px;
-
+    padding: 0px 0 0 0px;
 }
-
 .projects1 {
-
-   padding: 12px 0 0 0px;
-
+    padding: 12px 0 0 0px;
 }
-
 .contacts {
-
-     margin: 40px 0 0 0px;
-
+    margin: 40px 0 0 0px;
 }
-
 .place_down {
     padding: 0 0 20% 0;
-    }
-
+}
 .place_down_slide3 {
     padding: 0 0 30% 0;
-    }
-
+}
 .slide1-margin-top {
-
     margin: 15% 0 0 0;
 }
-
 .slide2-margin-top {
-
     margin: 15% 0 0 0;
 }
-
 .slide2-margin-left {
     margin: 0 0 0 45px;
-
-
 }
-
 .slide3-margin-top {
-
     margin: 10% 0 0 0;
 }
 
-
 /*--- RESPONSIBLE -----*/
+
 @media (max-width: 1200px) {
     .pull-right {
         float: none !important;
-
     }
-
     .resp-center {
         text-align: center;
-
     }
-
     .place_down {
-    padding: 0 0 5% 0;
-        }
-
-.background1 {
-    height: 100%;
+        padding: 0 0 5% 0;
     }
-
+    .background1 {
+        height: 100%;
+    }
     .slide1-margin-top {
-    margin: 10px 0 0 0;
+        margin: 10px 0 0 0;
     }
-
     .slide2-margin-left {
-    margin: 0 0 0 10px;
+        margin: 0 0 0 10px;
     }
-
     .slide1-resp-down {
         padding: 0 0 20px 0;
-
-         }
-
+    }
     .mcp-resp-padding {
         padding: 25px 0 0 0;
-
     }
-
-
 }
-
-
 @media (max-width: 992px) {
     .pull-right {
         float: none !important;
-
     }
-
     .resp-center {
         text-align: center;
-
     }
-
     .place_down {
-    padding: 0 0 5% 0;
-        }
-
-.background1 {
-    height: 100%;
+        padding: 0 0 5% 0;
     }
-
+    .background1 {
+        height: 100%;
+    }
     .slide1-margin-top {
-    margin: 10px 0 0 0;
+        margin: 10px 0 0 0;
     }
-
     .slide2-margin-left {
-    margin: 0 0 0 10px;
+        margin: 0 0 0 10px;
     }
-
     .slide1-resp-down {
         padding: 0 0 20px 0;
-
-         }
-
+    }
     .mcp-resp-padding {
         padding: 25px 0 0 0;
-
     }
-
-
 }
-
-
-
 @media (max-width: 768px) {
     .pull-right {
         float: none !important;
-
     }
-
     .resp-center {
         text-align: center;
-
     }
-
     .place_down {
-    padding: 0 0 5% 0;
-        }
-
-.background1 {
-    height: 100%;
+        padding: 0 0 5% 0;
     }
-
+    .background1 {
+        height: 100%;
+    }
     .slide1-margin-top {
-    margin: 10px 0 0 0;
+        margin: 10px 0 0 0;
     }
-
     .slide2-margin-left {
-    margin: 0 0 0 10px;
+        margin: 0 0 0 10px;
     }
-
     .slide1-resp-down {
         padding: 0 0 20px 0;
-
-         }
-
+    }
     .mcp-resp-padding {
         padding: 25px 0 0 0;
-
     }
-
-
 }
